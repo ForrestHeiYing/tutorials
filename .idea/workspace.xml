@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88ff4cf5-cccf-4f50-b03e-59773f71d8d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CIFAR10_Part1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CIFAR10_Part1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CIFAR10_Part2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CIFAR10_Part2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control_Ops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Control_Ops.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Getting_Caffe1_Models_for_Translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Getting_Caffe1_Models_for_Translation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Pre-Processing_Pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Pre-Processing_Pipeline.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loading_Pretrained_Models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Loading_Pretrained_Models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST_Dataset_and_Databases.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST_Dataset_and_Databases.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model_Quickload.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Model_Quickload.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-GPU_Training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-GPU_Training.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOTICE" beforeDir="false" afterPath="$PROJECT_DIR$/NOTICE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Op.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Op.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Toy_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Toy_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_a_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Training_a_Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_your_own_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/create_your_own_dataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experimental/Immediate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experimental/Immediate.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cellsx128.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Cellsx128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Ducreux.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Ducreux.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Flower-id.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Flower-id.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Places-cnn-visual-example.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Places-cnn-visual-example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/aircraft-carrier.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/aircraft-carrier.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/astronauts.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/astronauts.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cell-tower.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cell-tower.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cowboy-hat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cowboy-hat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flower.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/flower.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/imagenet-boat.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/imagenet-boat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/imagenet-caffe2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/imagenet-caffe2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/imagenet-meme.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imagenet-meme.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/imagenet-montage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imagenet-montage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lemon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lemon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mirror-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/mirror-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/orange.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/orange.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/orangutan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/orangutan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pretzel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pretzel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sickle-cells.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sickle-cells.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference_codes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/inference_codes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter_notebook_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter_notebook_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_op/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_op/sample/add5_op_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/sample/add5_op_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_op/sample/run_add5_op.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/sample/run_add5_op.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_op/sample/sample.md" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/sample/sample.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_op/template/add5_op.cc" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/template/add5_op.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_op/template/add5_op.cu" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/template/add5_op.cu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_op/template/add5_op.h" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/template/add5_op.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nomnigraph_model_exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nomnigraph_model_exploration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/CIFAR10_Part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/CIFAR10_Part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/CIFAR10_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/CIFAR10_Part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/Control_Ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Control_Ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/Getting_Caffe1_Models_for_Translation.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Getting_Caffe1_Models_for_Translation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/Image_Pre-Processing_Pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Image_Pre-Processing_Pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/Loading_Pretrained_Models.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Loading_Pretrained_Models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/MNIST.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/MNIST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/MNIST_Dataset_and_Databases.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/MNIST_Dataset_and_Databases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/Model_Quickload.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Model_Quickload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/Multi-GPU_Training.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Multi-GPU_Training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/Python_Op.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Python_Op.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/Toy_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Toy_Regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/Training_a_Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Training_a_Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/create_your_own_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/create_your_own_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_gen/sparseNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/sparseNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials_to_script_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials_to_script_converter.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="470741382">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1640" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1640" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/normalTest/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="112" column="8" lean-forward="true" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+              <folding>
+                <element signature="e#103#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/normalTest/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="242" />
+    <option name="y" value="84" />
+    <option name="width" value="1541" />
+    <option name="height" value="962" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="normalTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88ff4cf5-cccf-4f50-b03e-59773f71d8d7" name="Default Changelist" comment="" />
+      <created>1564037945772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564037945772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14067611" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22732124" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/workspace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/proto/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/normalTest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="112" column="8" lean-forward="true" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+          <folding>
+            <element signature="e#103#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
