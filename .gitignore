@@ -124,6 +124,7 @@ dmypy.json
 # add 
 python_ven/*
 
+normalTest/data/*
 
 
 

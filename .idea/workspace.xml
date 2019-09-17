@@ -2,76 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88ff4cf5-cccf-4f50-b03e-59773f71d8d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CIFAR10_Part1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CIFAR10_Part1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CIFAR10_Part2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CIFAR10_Part2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Control_Ops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Control_Ops.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Getting_Caffe1_Models_for_Translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Getting_Caffe1_Models_for_Translation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image_Pre-Processing_Pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Pre-Processing_Pipeline.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loading_Pretrained_Models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Loading_Pretrained_Models.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNIST_Dataset_and_Databases.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST_Dataset_and_Databases.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model_Quickload.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Model_Quickload.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multi-GPU_Training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-GPU_Training.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOTICE" beforeDir="false" afterPath="$PROJECT_DIR$/NOTICE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Op.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Op.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Toy_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Toy_Regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_a_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Training_a_Model.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_your_own_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/create_your_own_dataset.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experimental/Immediate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experimental/Immediate.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/helpers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cellsx128.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Cellsx128.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ducreux.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Ducreux.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Flower-id.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Flower-id.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Places-cnn-visual-example.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Places-cnn-visual-example.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/aircraft-carrier.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/aircraft-carrier.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/astronauts.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/astronauts.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cat.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cell-tower.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cell-tower.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cowboy-hat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cowboy-hat.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/flower.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/flower.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/imagenet-boat.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/imagenet-boat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/imagenet-caffe2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/imagenet-caffe2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/imagenet-meme.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imagenet-meme.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/imagenet-montage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imagenet-montage.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lemon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lemon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mirror-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/mirror-image.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/orange.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/orange.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/orangutan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/orangutan.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pretzel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pretzel.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sickle-cells.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sickle-cells.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inference_codes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/inference_codes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter_notebook_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter_notebook_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_op/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_op/sample/add5_op_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/sample/add5_op_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_op/sample/run_add5_op.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/sample/run_add5_op.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_op/sample/sample.md" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/sample/sample.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_op/template/add5_op.cc" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/template/add5_op.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_op/template/add5_op.cu" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/template/add5_op.cu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_op/template/add5_op.h" beforeDir="false" afterPath="$PROJECT_DIR$/new_op/template/add5_op.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nomnigraph_model_exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nomnigraph_model_exploration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/CIFAR10_Part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/CIFAR10_Part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/CIFAR10_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/CIFAR10_Part2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/Control_Ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Control_Ops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/Getting_Caffe1_Models_for_Translation.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Getting_Caffe1_Models_for_Translation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/Image_Pre-Processing_Pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Image_Pre-Processing_Pipeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/Loading_Pretrained_Models.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Loading_Pretrained_Models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/MNIST.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/MNIST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/MNIST_Dataset_and_Databases.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/MNIST_Dataset_and_Databases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/Model_Quickload.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Model_Quickload.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/Multi-GPU_Training.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Multi-GPU_Training.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/Python_Op.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Python_Op.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/Toy_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Toy_Regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/Training_a_Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/Training_a_Model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/create_your_own_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/create_your_own_dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_gen/sparseNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_gen/sparseNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorials_to_script_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials_to_script_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/normalTest/image_preprocessing_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/normalTest/net_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/normalTest/regression_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normalTest/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/normalTest/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,33 +30,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1640" />
+          <entry key="py" value="4145" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1640" />
+          <entry key="Python" value="4145" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/normalTest/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="112" column="8" lean-forward="true" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+            <state relative-caret-position="2380">
+              <caret line="119" column="8" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="8" />
               <folding>
                 <element signature="e#103#141#0" expanded="true" />
               </folding>
@@ -128,7 +64,110 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/normalTest/net_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="38" column="43" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="43" />
+              <folding>
+                <element signature="e#106#143#0" expanded="true" />
+                <marker date="1568635130974" expanded="true" signature="1720:2216" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/normalTest/regression_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
+              <folding>
+                <element signature="e#116#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/normalTest/image_preprocessing_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+              <folding>
+                <element signature="e#126#163#0" expanded="true" />
+                <marker date="1568713162407" expanded="true" signature="2448:4501" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/helpers/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/helpers/pooling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="e#113#151#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/helpers/conv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="166" column="4" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="4" />
+              <folding>
+                <element signature="e#53#91#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/cnn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="198" column="28" selection-start-line="198" selection-start-column="20" selection-end-line="198" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/core.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2407">
+              <caret line="1780" column="38" selection-start-line="1780" selection-start-column="38" selection-end-line="1780" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>run_once</find>
+      <find>GaussianFill</find>
+      <find>model_helper</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -137,14 +176,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/normalTest/main.py" />
+        <option value="$PROJECT_DIR$/normalTest/net_test.py" />
+        <option value="$PROJECT_DIR$/normalTest/regression_example.py" />
+        <option value="$PROJECT_DIR$/normalTest/image_preprocessing_example.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="242" />
-    <option name="y" value="84" />
-    <option name="width" value="1541" />
-    <option name="height" value="962" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="347" />
+    <option name="y" value="255" />
+    <option name="width" value="1539" />
+    <option name="height" value="937" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -200,10 +242,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14067611" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14067611" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -214,7 +256,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22732124" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.08644611" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -236,19 +278,99 @@
     <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/proto/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/core.py">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/numpy/testing/_private/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="-1678">
+          <caret line="684" column="4" selection-start-line="684" selection-start-column="4" selection-end-line="684" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/normalTest/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="112" column="8" lean-forward="true" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+        <state relative-caret-position="2380">
+          <caret line="119" column="8" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="8" />
           <folding>
             <element signature="e#103#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2407">
+          <caret line="1780" column="38" selection-start-line="1780" selection-start-column="38" selection-end-line="1780" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/normalTest/net_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="43" />
+          <folding>
+            <element signature="e#106#143#0" expanded="true" />
+            <marker date="1568635130974" expanded="true" signature="1720:2216" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/normalTest/regression_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="e#116#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="41" column="96" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/helpers/conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="166" column="4" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="4" />
+          <folding>
+            <element signature="e#53#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="198" column="28" selection-start-line="198" selection-start-column="20" selection-end-line="198" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/helpers/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#113#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/detectron_mask/lib/python2.7/site-packages/caffe2/python/helpers/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/normalTest/image_preprocessing_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+          <folding>
+            <element signature="e#126#163#0" expanded="true" />
+            <marker date="1568713162407" expanded="true" signature="2448:4501" ph="..." />
           </folding>
         </state>
       </provider>

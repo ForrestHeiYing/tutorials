@@ -21,21 +21,27 @@ from caffe2.python import model_helper
 
 def workspace_test():
 
-    print("current blobs in the workspace : {}".format(workspace.Blobs))
-    print("Workspace has blob 'X' ?: {}".format(workspace.HasBlob("X")))
+    print("current blobs in the workspace : {}".format(workspace.Blobs))  # 查看workspace里面所有的blobs
+    print("Workspace has blob 'X' ?: {}".format(workspace.HasBlob("X")))  # 判断是否有blob X
 
     X = np.random.randn(2, 3).astype(np.float32)
     print("Generated X from numpy: \n{}".format(X))
-    workspace.FeedBlob("X", X)
+    workspace.FeedBlob("X", X)  # 将 blob 传入 workspace
 
     print("current blobs in the workspace:{}".format(workspace.Blobs()))
     print("Workspace has blob 'X' ?{}".format(workspace.HasBlob("X")))
-    print("Fethched X:\n{}".format(workspace.FetchBlob("X")))
+    print("Fethched X:\n{}".format(workspace.FetchBlob("X")))   # 从workspace里面读取blob
 
-    print("current workspace: {}".format(workspace.CurrentWorkspace()))
-    print("current blobs in the workspace: {}".format(workspace.Blobs))
+    # 判断两个矩阵是否相等,不等会抛出异常
+    np.testing.assert_array_equal(X, workspace.FetchBlob("X"))
+    # print("a=", np.testing.assert_array_equal(X, workspace.FetchBlob("X")))
 
-    workspace.SwitchWorkspace("gutentag", True)  # switch the workspace. The second
+    print("current workspace: {}".format(workspace.CurrentWorkspace()))  # 查看当前workspace
+    print("current blobs in the workspace: {}".format(workspace.Blobs()))
+
+    # The second parameter 'True' indicates that if 'gutentag' does not exist, create one
+    workspace.SwitchWorkspace("gutentag", True)  # switch the workspace.
+
     print("After Switch Workspace ................")
     print("current workspace:{}".format(workspace.CurrentWorkspace()))
     print("current blobs in the workspace:{}".format(workspace.Blobs()))
@@ -55,7 +61,8 @@ def operators_test():
 
     workspace.FeedBlob("X", np.random.randn(2, 3).astype(np.float32))
     print("current blobs in the workspace:{}\n".format(workspace.Blobs()))
-    workspace.RunOperatorOnce(op)
+
+    workspace.RunOperatorOnce(op)   # run op
     print("current blobs in the workspace:{}\n".format(workspace.Blobs()))
     print("X:\n{}\n".format(workspace.FetchBlob("X")))
     print("Y:\n{}\n".format(workspace.FetchBlob("Y")))
@@ -64,7 +71,7 @@ def operators_test():
 
     op1 = core.CreateOperator(
         "GaussianFill",
-        [],
+        [],  # GaussianFill does not need any parameters.
         ["W"],
         shape=[100, 100],
         mean=1.0,
@@ -107,7 +114,7 @@ def model_helper_test():
 
 if __name__ == '__main__':
 
-    workspace_test()
-    # operators_test()
+    # workspace_test()
+    operators_test()
     # model_helper_test()
     pass
